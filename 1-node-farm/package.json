@@ -1,0 +1,21 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Ismail",
+    "A.Ogundele"
+  ],
+  "author": "Ismail A.Ogundele",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
